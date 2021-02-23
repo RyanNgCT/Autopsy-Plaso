@@ -10,5 +10,5 @@ Case Scenario: Autopsy Training Renzik Dognapping Case
 
 
 ### Contributors
-- Ezra Ho
-- RyanNgCT
+- [@EzraHoJC](https://github.com/ezrahojc)
+- [@RyanNgCT](https://github.com/ryanngct)
