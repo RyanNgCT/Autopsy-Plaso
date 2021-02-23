@@ -8,6 +8,10 @@ Digital Forensics Assignment using the GUI based Autopsy 4 and Plaso software ki
 
 ![eposter](https://github.com/RyanNgCT/Autopsy-Plaso/blob/main/DF-EPoster.jpg)
 
+## Requirements
+- SANS SIFT Workstation
+- Windows VM with [Timeline Explorer](https://ericzimmerman.github.io/#!index.md) and [Autopsy 4.x+](https://www.autopsy.com/download/) installed
+
 ## Plaso Commands
 1. Log2Timeline.py
 *Purpose: create a dump file based on the acquired image. May need to select partition to be processed.*
@@ -32,6 +36,6 @@ $ psort.py [-z <zone_identifier>] -o <output_type> -w <output_timeline> <input_d
 * `-w`: file to write to (a.k.a. output timeline file)
 
 
-### Contributors
+## Contributors
 - [@EzraHoJC](https://github.com/ezrahojc)
 - [@RyanNgCT](https://github.com/ryanngct)
