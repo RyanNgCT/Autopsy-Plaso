@@ -30,7 +30,7 @@ $ pinfo.py <output_filename>
 
 3. psort.py
 
-*Purpose: gather information of the type of dump file and properties (registry, file, warnings etc.).*
+*Purpose: create the timeline of events for analysis in Timeline Explorer.*
 ```
 $ psort.py [-z <zone_identifier>] -o <output_type> -w <output_timeline> <input_dump_filename> [--slice <timeslice>] [timefilter]
 ```
