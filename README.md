@@ -3,16 +3,18 @@ NP CSF DF Module Assignment
 
 Digital Forensics Assignment using the GUI based Autopsy 4 and Plaso software kit on SANS SIFT Workstation.
 
+Used to simulate how these two Digital Forensic tools can aid evidence extraction for solving digital crimes
+
 **Case Scenario: Autopsy Training Renzik Dognapping Case** (available for download through [Autopsy 8 hour training](https://dfir-training.basistech.com/courses/autopsy-basics-8-hours))
 
 
 ![eposter](https://github.com/RyanNgCT/Autopsy-Plaso/blob/main/DF-EPoster.jpg)
 
-## Requirements
+### Requirements
 - SANS SIFT Workstation
 - Windows VM with [Timeline Explorer](https://ericzimmerman.github.io/#!index.md) and [Autopsy 4.x+](https://www.autopsy.com/download/) installed
 
-## Plaso Commands
+### Plaso Commands
 1. Log2Timeline.py
 
 *Purpose: create a dump file based on the acquired image. May need to select partition to be processed.*
