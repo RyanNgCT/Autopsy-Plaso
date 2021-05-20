@@ -1,14 +1,17 @@
 # Autopsy-Plaso
 NP CSF DF Module Assignment
 
+## Introduction
 Digital Forensics Assignment using the GUI based Autopsy 4 and Plaso software kit on SANS SIFT Workstation.
 
-Used to simulate how these two Digital Forensic tools can aid evidence extraction for solving digital crimes
+Used to simulate how these two Digital Forensic tools can aid evidence extraction for solving digital crimes.
 
 **Case Scenario: Autopsy Training Renzik Dognapping Case** (available for download through [Autopsy 8 hour training](https://dfir-training.basistech.com/courses/autopsy-basics-8-hours))
 
 
 ![eposter](https://github.com/RyanNgCT/Autopsy-Plaso/blob/main/DF-EPoster.jpg)
+
+Slides we used for presentation are available [here](https://github.com/RyanNgCT/Autopsy-Plaso/blob/main/Digital%20Forensics%20Presentation.pptx)!
 
 ### Requirements
 - SANS SIFT Workstation
