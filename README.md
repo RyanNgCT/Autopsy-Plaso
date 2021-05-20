@@ -13,11 +13,11 @@ Used to simulate how these two Digital Forensic tools can aid evidence extractio
 
 Slides we used for presentation are available [here](https://github.com/RyanNgCT/Autopsy-Plaso/blob/main/Digital%20Forensics%20Presentation.pptx)!
 
-### Requirements
+## Requirements
 - SANS SIFT Workstation
 - Windows VM with [Timeline Explorer](https://ericzimmerman.github.io/#!index.md) and [Autopsy 4.x+](https://www.autopsy.com/download/) installed
 
-### Plaso Commands
+## Plaso Commands
 1. Log2Timeline.py
 
 *Purpose: create a dump file based on the acquired image. May need to select partition to be processed.*
